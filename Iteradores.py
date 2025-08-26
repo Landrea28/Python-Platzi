@@ -1,3 +1,41 @@
+# ITERACIONES
+
+# Ejemplo de uso de for
+numbers = [1, 2, 3, 4, 5]
+for number in numbers:
+    print(number)  # Imprime cada número en la lista
+for i in range(1, 6):
+    print(i)  # Imprime números del 1 al 5  
+for i in numbers:
+    print("i is equal to: ", i + 1)  # Imprime cada número en la lista
+for i in range(10):
+    if i % 2 == 0:
+        print(i, "es par")  # Imprime números pares del 0 al 9
+    else:
+        print(i, "es impar")  # Imprime números impares del 0 al 9
+for i in range(10):
+    if i == 5:
+        print("Se encontró el número 5, saliendo del bucle")
+        break  # Sale del bucle cuando i es igual a 5
+    print(i)  # Imprime números del 0 al 4
+for i in range(10):
+    print(i)  # Imprime números del 0 al 9
+
+fruits = ["manzana", "banana", "naranja"]
+for fruit in fruits:
+    if fruit == "banana":
+        print("Se encontró una banana, continuando con el siguiente elemento")
+        continue  # Salta a la siguiente iteración cuando se encuentra una banana
+    print(fruit)  # Imprime cada fruta excepto la banana
+x = 0
+while x < 5:
+    if x == 3:
+        print("x es igual a 3, saliendo del bucle")
+        break
+    print("x es igual a:", x)  # Imprime el valor de x
+    x += 1  # Incrementa x en 1
+
+
 number = [1, 2, 3, 4, 5]
 for i in number:
     print("Aqui i es igual a : ",i+1)  # Imprime cada número en la lista incrementado en 1
@@ -80,4 +118,3 @@ def fibonacci(limit):  # Generador de la secuencia de Fibonacci
 
 for num in fibonacci(10):  # Por cada número en la secuencia de Fibonacci hasta el límite especificado
     print(num)  # Imprime cada número de la secuencia de Fibonacci (0, 1, 1, 2, 3, 5, 8)    
-    
