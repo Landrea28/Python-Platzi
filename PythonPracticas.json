@@ -1,0 +1,182 @@
+[
+    {
+        "id": "1",
+        "dispositivo": "Laptop",
+        "marca": "Lenovo",
+        "categoria": "Computo"
+    },
+    {
+        "id": "2",
+        "dispositivo": "Smartphone",
+        "marca": "Samsung",
+        "categoria": "Movil"
+    },
+    {
+        "id": "3",
+        "dispositivo": "Tablet",
+        "marca": "Apple",
+        "categoria": "Movil"
+    },
+    {
+        "id": "4",
+        "dispositivo": "Servidor",
+        "marca": "Dell",
+        "categoria": "Infraestructura"
+    },
+    {
+        "id": "5",
+        "dispositivo": "Router",
+        "marca": "TP-Link",
+        "categoria": "Redes"
+    },
+    {
+        "id": "6",
+        "dispositivo": "Switch",
+        "marca": "Cisco",
+        "categoria": "Redes"
+    },
+    {
+        "id": "7",
+        "dispositivo": "Monitor",
+        "marca": "LG",
+        "categoria": "Perifericos"
+    },
+    {
+        "id": "8",
+        "dispositivo": "Teclado",
+        "marca": "Logitech",
+        "categoria": "Perifericos"
+    },
+    {
+        "id": "9",
+        "dispositivo": "Mouse",
+        "marca": "Razer",
+        "categoria": "Perifericos"
+    },
+    {
+        "id": "10",
+        "dispositivo": "Impresora",
+        "marca": "HP",
+        "categoria": "Oficina"
+    },
+    {
+        "id": "11",
+        "dispositivo": "Escaner",
+        "marca": "Epson",
+        "categoria": "Oficina"
+    },
+    {
+        "id": "12",
+        "dispositivo": "Smartwatch",
+        "marca": "Xiaomi",
+        "categoria": "Wearables"
+    },
+    {
+        "id": "13",
+        "dispositivo": "Auriculares",
+        "marca": "Sony",
+        "categoria": "Audio"
+    },
+    {
+        "id": "14",
+        "dispositivo": "Microfono",
+        "marca": "HyperX",
+        "categoria": "Audio"
+    },
+    {
+        "id": "15",
+        "dispositivo": "Camara web",
+        "marca": "Logitech",
+        "categoria": "Video"
+    },
+    {
+        "id": "16",
+        "dispositivo": "Disco duro externo",
+        "marca": "Seagate",
+        "categoria": "Almacenamiento"
+    },
+    {
+        "id": "17",
+        "dispositivo": "Memoria USB",
+        "marca": "Kingston",
+        "categoria": "Almacenamiento"
+    },
+    {
+        "id": "18",
+        "dispositivo": "SSD",
+        "marca": "Samsung",
+        "categoria": "Almacenamiento"
+    },
+    {
+        "id": "19",
+        "dispositivo": "Placa base",
+        "marca": "ASUS",
+        "categoria": "Componentes"
+    },
+    {
+        "id": "20",
+        "dispositivo": "Procesador",
+        "marca": "Intel",
+        "categoria": "Componentes"
+    },
+    {
+        "id": "21",
+        "dispositivo": "Tarjeta grafica",
+        "marca": "NVIDIA",
+        "categoria": "Componentes"
+    },
+    {
+        "id": "22",
+        "dispositivo": "Fuente de poder",
+        "marca": "Corsair",
+        "categoria": "Componentes"
+    },
+    {
+        "id": "23",
+        "dispositivo": "Repetidor WiFi",
+        "marca": "Tenda",
+        "categoria": "Redes"
+    },
+    {
+        "id": "24",
+        "dispositivo": "Firewall",
+        "marca": "FortiGate",
+        "categoria": "Seguridad"
+    },
+    {
+        "id": "25",
+        "dispositivo": "Servidor NAS",
+        "marca": "Synology",
+        "categoria": "Almacenamiento"
+    },
+    {
+        "id": "26",
+        "dispositivo": "Lector de huella",
+        "marca": "ZKTeco",
+        "categoria": "Seguridad"
+    },
+    {
+        "id": "27",
+        "dispositivo": "Proyector",
+        "marca": "BenQ",
+        "categoria": "Video"
+    },
+    {
+        "id": "28",
+        "dispositivo": "UPS",
+        "marca": "APC",
+        "categoria": "Energia"
+    },
+    {
+        "id": "29",
+        "dispositivo": "Drone",
+        "marca": "DJI",
+        "categoria": "Electronica"
+    },
+    {
+        "id": "30",
+        "dispositivo": "Smart TV",
+        "marca": "LG",
+        "categoria": "Entretenimiento"
+    }
+]

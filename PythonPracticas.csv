@@ -1,0 +1,31 @@
+id,dispositivo,marca,categoria
+1,Laptop,Lenovo,Computo
+2,Smartphone,Samsung,Movil
+3,Tablet,Apple,Movil
+4,Servidor,Dell,Infraestructura
+5,Router,TP-Link,Redes
+6,Switch,Cisco,Redes
+7,Monitor,LG,Perifericos
+8,Teclado,Logitech,Perifericos
+9,Mouse,Razer,Perifericos
+10,Impresora,HP,Oficina
+11,Escaner,Epson,Oficina
+12,Smartwatch,Xiaomi,Wearables
+13,Auriculares,Sony,Audio
+14,Microfono,HyperX,Audio
+15,Camara web,Logitech,Video
+16,Disco duro externo,Seagate,Almacenamiento
+17,Memoria USB,Kingston,Almacenamiento
+18,SSD,Samsung,Almacenamiento
+19,Placa base,ASUS,Componentes
+20,Procesador,Intel,Componentes
+21,Tarjeta grafica,NVIDIA,Componentes
+22,Fuente de poder,Corsair,Componentes
+23,Repetidor WiFi,Tenda,Redes
+24,Firewall,FortiGate,Seguridad
+25,Servidor NAS,Synology,Almacenamiento
+26,Lector de huella,ZKTeco,Seguridad
+27,Proyector,BenQ,Video
+28,UPS,APC,Energia
+29,Drone,DJI,Electronica
+30,Smart TV,LG,Entretenimiento
